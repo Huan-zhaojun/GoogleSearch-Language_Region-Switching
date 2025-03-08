@@ -1,7 +1,9 @@
-# google_search_filter_with_Language
+# [GoogleSearch-Language_Region-Switching](https://github.com/Huan-zhaojun/GoogleSearch-Language_Region-Switching)
 
+https://greasyfork.org/scripts/392869-google-search-filter-with-language
 
-https://greasyfork.org/en/scripts/392869-google-search-filter-with-language/
+![](docs\SearchBar1.png)
 
-![effect](https://github.com/zhuzemin/Google-search-filter-with-language/raw/master/Screenshot-2019-12-27.jpg)
+![](docs\SearchBar2.png)
 
+<img src="docs\Menu.png" style="zoom:50%;" />
